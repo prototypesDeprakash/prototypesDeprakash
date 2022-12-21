@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prototypesDeprakash
-- 👀 I’m interested in game development , 3d art ,animation and web dev
+- 👀 I’m interested in game development , 3d art ,animation web and app dev
 - 🌱 I’m currently learning web dev and flutter
 - 💞️ I’m looking to collaborate on any open scource project related to design and 3d animations
 - 📫 How to reach me -- you can reach me by sending an email @prakashmvp8080@gmail.com or contact me on twitter prakashmvp2004 
