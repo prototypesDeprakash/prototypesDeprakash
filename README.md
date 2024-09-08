@@ -1,6 +1,6 @@
-im Prakash PA
-i study computer science and engineering 
-i make something interesting ....
+Im Prakash PA
+Majoring in cs
+I make games and stuffs ....
 
 
 <!---
