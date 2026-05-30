@@ -90,22 +90,20 @@ public class Prakash {
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
-
 <a href="https://github.com/prototypesDeprakash">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prototypesDeprakash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prototypesDeprakash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&hide=contribs&rank_icon=github"/>
 </a>
 <a href="https://github.com/prototypesDeprakash">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prototypesDeprakash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
-
 </div>
 
 ---
 
-## 🔥 Streak Stats
+##  Streak Stats
 
 <div align="center">
 
@@ -115,7 +113,7 @@ public class Prakash {
 
 ---
 
-## 📈 Activity Graph
+##  Activity Graph
 
 <div align="center">
 
@@ -128,26 +126,33 @@ public class Prakash {
 ## 🏆 Trophy Wall
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=prototypesDeprakash&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/prototypesDeprakash)
-
+![Hackathon Winner](https://img.shields.io/badge/🥇_Hackathon_Winner-not--a--thon_%40_VIT_Chennai-70a5fd?style=for-the-badge&labelColor=0d1117)
+![2nd Runner Up](https://img.shields.io/badge/🥉_2nd_Runner_Up-graviton2.0_%40_PESU_Bangalore-bf91f3?style=for-the-badge&labelColor=0d1117)
+![Track Prize](https://img.shields.io/badge/🏆_Track_Prize-PEC_Hacks_MLH-38bdae?style=for-the-badge&labelColor=0d1117)
+ 
+![2nd Prize Project](https://img.shields.io/badge/🥈_2nd_Prize-Project_Contest_%40_MIT_Pondicherry-70a5fd?style=for-the-badge&labelColor=0d1117)
+![2nd Prize Coding](https://img.shields.io/badge/🥈_2nd_Prize-CODEATHON_%40_Velar_Institute-bf91f3?style=for-the-badge&labelColor=0d1117)
+![Top 16 National](https://img.shields.io/badge/🌟_Top_16_National-Unisys_Innovation_Contest-38bdae?style=for-the-badge&labelColor=0d1117)
+ 
+![Team Lead](https://img.shields.io/badge/👥_Team_Lead-3_Hackathon_Wins_%7C_6%2B_Competitions-70a5fd?style=for-the-badge&labelColor=0d1117)
+ 
 </div>
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
 <details>
-<summary>🏢 <b>Tata Consultancy Services (TCS)</b> — AR & AI-Assisted VR Training Developer Intern | Jun 2025 – Aug 2025 | Hyderabad, India</summary>
+<summary>🏢 <b>Tata Consultancy Services (TCS)</b> — AR & AI-Assisted VR Training Developer Intern | Jun 2025 – Aug 2025 | Chennai, India</summary>
 
 <br/>
 
 > `AR/VR` `Unity` `AI` `Simulations` `Hyper Innovation`
 
-- 🚀 Worked at TCS's **Hyper Innovation Center of Excellence** across AR/VR, Unity simulations, and AI.
-- 🧠 Contributed to multiple cutting-edge innovative projects blending immersive tech with artificial intelligence.
-- 🎮 Developed AR and AI-assisted VR training modules for enterprise use cases.
-- 🌐 Collaborated with cross-functional innovation teams on next-gen simulation tools.
+-  Worked at TCS's **Hyper Innovation Center of Excellence** across AR/VR, Unity simulations, and AI.
+-  Contributed to multiple cutting-edge innovative projects blending immersive tech with artificial intelligence.
+-  Developed AR and AI-assisted VR training modules for enterprise use cases.
+-  Collaborated with cross-functional innovation teams on next-gen simulation tools.
 
 </details>
 
@@ -158,20 +163,20 @@ public class Prakash {
 
 > `Unity Engine` `C#` `Gameplay Systems` `Performance Optimization`
 
-- 🎯 Developed and optimized **core gameplay mechanics** using C# in Unity.
-- ⚙️ Improved game performance through code optimization and profiling.
-- 🛠️ Worked on interactive educational game experiences for the Flashskool platform.
-- 🔄 Delivered iterative builds with rapid feature implementation cycles.
+-  Developed and optimized **core gameplay mechanics** using C# in Unity.
+-  Improved game performance through code optimization and profiling.
+-  Worked on interactive educational game experiences for the Flashskool platform.
+-  Delivered iterative builds with rapid feature implementation cycles.
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <div align="center">
 
-| 🗂️ Project | ⚙️ Stack | ✨ Highlights |
+|  Project |  Stack |  Highlights |
 |:---|:---|:---|
 | [**🌐 Digital Twin Builder**](https://github.com/prototypesDeprakash) | Unity Engine · ESP32 (IoT) · CNN · Blender | Built real-time **two-way IoT sync** between physical & virtual worlds; 2D-to-3D and direct 3D building tools; virtual control of real devices (lights, fans) |
 | [**🤖 AI Enterprise Ticketing Automation**](https://github.com/prototypesDeprakash) | Azure OpenAI · Whisper · Python | Converts **voice & text → structured support tickets** via Whisper STT + Azure NLP; end-to-end backend automation reducing manual ticket creation |
@@ -202,7 +207,7 @@ public class Prakash {
 
 <div align="center">
 
-| 📚 Degree | 🏫 Institution | 📅 Year | 📊 Score |
+|  Degree |  Institution |  Year |  Score |
 |:---|:---|:---|:---|
 | B.Tech – Computer Science & Engineering | Sri Manakula Vinayagar Engineering College, Puducherry | 2022 – 2026 | CGPA: **9.03** |
 | Higher Secondary (12th) | Presidency Higher Secondary School, Puducherry | 2021 – 2022 | **84.33%** |
@@ -215,11 +220,11 @@ public class Prakash {
 ## 📡 Currently Learning
 
 ```
-🥽  AR/VR Development     →  Immersive experiences, spatial computing, XR interfaces
-🧠  AI + Simulations      →  NLP pipelines, speech-to-text, Azure Cognitive Services
-🌐  Digital Twins         →  IoT integration, real-time sync, Unity + ESP32 systems
-🎮  Advanced Unity        →  Shader Graph, DOTS, performance profiling, multiplayer
-🤖  Generative AI         →  LLM integrations, prompt engineering, AI-assisted tooling
+ AR/VR Development     →  Immersive experiences, spatial computing, XR interfaces
+ AI + Simulations      →  NLP pipelines, speech-to-text, Azure Cognitive Services
+ Digital Twins         →  IoT integration, real-time sync, Unity + ESP32 systems
+ Advanced Unity        →  Shader Graph, DOTS, performance profiling, multiplayer
+ Generative AI         →  LLM integrations, prompt engineering, AI-assisted tooling
 ```
 
 ---
