@@ -90,18 +90,6 @@ public class Prakash {
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-<a href="https://github.com/prototypesDeprakash">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prototypesDeprakash&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&hide=contribs&rank_icon=github"/>
-</a>
-<a href="https://github.com/prototypesDeprakash">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prototypesDeprakash&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-</div>
-
----
 
 ##  Streak Stats
 
@@ -126,10 +114,10 @@ public class Prakash {
 ## 🏆 Trophy Wall
 
 <div align="center">
+    
 ![Hackathon Winner](https://img.shields.io/badge/🥇_Hackathon_Winner-not--a--thon_%40_VIT_Chennai-70a5fd?style=for-the-badge&labelColor=0d1117)
 ![2nd Runner Up](https://img.shields.io/badge/🥉_2nd_Runner_Up-graviton2.0_%40_PESU_Bangalore-bf91f3?style=for-the-badge&labelColor=0d1117)
 ![Track Prize](https://img.shields.io/badge/🏆_Track_Prize-PEC_Hacks_MLH-38bdae?style=for-the-badge&labelColor=0d1117)
- 
 ![2nd Prize Project](https://img.shields.io/badge/🥈_2nd_Prize-Project_Contest_%40_MIT_Pondicherry-70a5fd?style=for-the-badge&labelColor=0d1117)
 ![2nd Prize Coding](https://img.shields.io/badge/🥈_2nd_Prize-CODEATHON_%40_Velar_Institute-bf91f3?style=for-the-badge&labelColor=0d1117)
 ![Top 16 National](https://img.shields.io/badge/🌟_Top_16_National-Unisys_Innovation_Contest-38bdae?style=for-the-badge&labelColor=0d1117)
