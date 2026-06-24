@@ -13,7 +13,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prototypesDeprakash&color=70a5fd&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prakashmvp-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakashmvp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-prakashmvp-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakashpa)
 [![GitHub](https://img.shields.io/badge/GitHub-prototypesDeprakash-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prototypesDeprakash)
 [![Email](https://img.shields.io/badge/Email-prakashmvp8080%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prakashmvp8080@gmail.com)
 
